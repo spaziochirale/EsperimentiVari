@@ -1,4 +1,4 @@
-# Spiegazione dettagliata del programma
+# Spiegazione dettagliata del programma (generata automaticamente da GPT-o1-Preview)
 
 Questo programma è un chatbot basato su Retrieval Augmented Generation (RAG) che consente di caricare un file PDF, indicizzarne il contenuto e rispondere a domande relative al testo del PDF. Utilizza la libreria **LangChain**, che facilita l'integrazione di modelli di linguaggio di grandi dimensioni (LLM) con diverse fonti di dati e flussi di lavoro.
 
